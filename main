@@ -9,8 +9,8 @@ import (
 	"github.com/360EntSecGroup-Skylar/excelize"
 )
 
-
-const (
+//模板
+const（
 	template_str = `package define
 
 	const (
